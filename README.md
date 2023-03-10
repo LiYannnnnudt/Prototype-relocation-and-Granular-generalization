@@ -9,3 +9,4 @@ Fuzzy rule-based models: a design with prototype relocation and granular general
   year={2021},
   publisher={Elsevier}
 }
+If you have any questions please contact email:liyan18@nudt.edu.cn
